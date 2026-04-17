@@ -13,7 +13,6 @@
 ```bash
 git clone https://github.com/forker-25/rtcai
 cd rtcai
-pip install -r requirements.txt
 python install.py
 # Добавить GROQ_API_KEY в ~/.rtcai/.env
 ```
