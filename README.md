@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) [![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)](https://opensource.org/licenses/EPL-1.0) [![SAFE-HAND MADE CODE](https://img.shields.io/badge/SAFE-HAND%20MADE%20CODE-32CD32)](https://github.com/40ants/ai-badges)
 
 # rtcai — бесплатный ИИ-помощник в терминале
 
